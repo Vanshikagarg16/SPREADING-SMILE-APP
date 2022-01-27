@@ -4,7 +4,7 @@ This application try to save leftover food , whose have extra food can inform to
 it is the ppt of our project which help you to understand about this project
 [project smile 1.pptx](https://github.com/SWAPNILTIWARI100/SPREADING-SMILE-APP/files/7953453/project.smile.1.pptx)
 
-here some screenshot of the app is uploaded
+some screenshot of the app 
 ![Screenshot (2)](https://user-images.githubusercontent.com/95383370/151434928-b0f8b3f4-98d8-4a23-bfa2-e7d454375026.png)
 
 
